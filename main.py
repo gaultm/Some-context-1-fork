@@ -1,3 +1,3 @@
-print('Huh? Who's there? 
-Dog at the front door barking at the air 
-Wind all "woosh" in the trees')
+print('Huh? Who\'s there?')
+print('Dog at the front door barking at the air')
+print('Wind all "woosh" in the trees')
